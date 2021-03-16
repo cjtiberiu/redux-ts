@@ -1,0 +1,24 @@
+.search-input {
+    border: none; 
+    vertical-align: bottom;
+    border-bottom: 1px solid grey;
+    text-align: center; 
+    padding: 5px; 
+    margin-bottom: 0; 
+    border-radius: 5px;
+}
+
+.search-input:focus {
+    outline: none;
+}
+
+.search-button {
+    border: none;
+    background-color: inherit;
+    vertical-align: center !important;
+    color: rgb(134, 59, 59);
+}
+
+.search-button:hover {
+    transform: scale(1.07);
+}
